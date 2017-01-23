@@ -1,5 +1,5 @@
-Minimal demonstration of webpack code-splitting/sourcemap bug
-=============================================================
+Minimal demonstration of webpack [code-splitting/sourcemap bug](https://github.com/webpack/webpack/issues/4086)
+===============================================================
 
 Demonstrates a problem with regenerating sourcemaps on reload.
 
