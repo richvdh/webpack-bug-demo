@@ -1,6 +1,9 @@
 {
   "name": "webpack-bug-demo",
   "version": "1.0.0",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "main": "main.js",
   "dependencies": {
     "webpack": "^1.14.0"
