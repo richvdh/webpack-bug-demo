@@ -1,0 +1,11 @@
+{
+  "name": "webpack-bug-demo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.16.2"
+  }
+}
